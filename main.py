@@ -13,7 +13,7 @@ symbol = {'alpha': 'α', 'Alpha': 'α', 'Beta': 'β', 'beta': 'β', 'gamma': 'γ
 
 
 try:
-    icon_path = "E:\Visual_Studio_Code\python\GUI\icon.ico"
+    icon_path = ".\assest\icon.ico"
 except:
     print('Favicon is missing!!')
 
